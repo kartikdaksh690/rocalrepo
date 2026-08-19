@@ -1,0 +1,2 @@
+
+elif marks>=70:
